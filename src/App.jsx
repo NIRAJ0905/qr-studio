@@ -1154,7 +1154,7 @@ function App() {
         </section>
 
         <footer className="footer">
-          Built for GDG on Campus SRM Recruitment 2026
+          Built for GDG on Campus SRM Recruitment 2026 by Niraj Pingale
         </footer>
       </main>
     </div>
